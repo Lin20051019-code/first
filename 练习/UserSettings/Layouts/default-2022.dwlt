@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 976
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -318,7 +318,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 1cfbffff1c6f0000
+      m_ExpandedIDs: 78e6ffff1cfbffff146f00001c6f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -440,10 +440,9 @@ MonoBehaviour:
     m_FilterByTypeIntersection: 0
   m_ViewMode: 0
   m_StartGridSize: 64
-  m_LastFolders:
-  - Assets
+  m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "E:\\project\\UNITY\\\u7EC3\u4E60"
+  m_LastProjectPath: "E:\\first\\\u7EC3\u4E60"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -478,23 +477,23 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000005e6f0000606f0000626f0000646f0000666f0000686f00006a6f00006c6f0000
+    m_ExpandedIDs: ffffffff000000005e6f0000606f0000626f0000646f0000666f0000686f00006a6f00006c6f00005a7100006271000076710000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Annie
+      m_OriginalName: Annie
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 28776
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 8}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -1015,9 +1014,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 552.8263, y: 276.00885, z: -3.7089846}
+    m_Target: {x: 595.8042, y: 291.29797, z: 0}
     speed: 2
-    m_Value: {x: 552.8263, y: 276.00885, z: -3.7089846}
+    m_Value: {x: 595.8042, y: 291.29797, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1067,9 +1066,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 371.76462
+    m_Target: 357.2243
     speed: 2
-    m_Value: 371.76462
+    m_Value: 357.2243
   m_Ortho:
     m_Target: 1
     speed: 2
