@@ -20,7 +20,11 @@ MonoBehaviour:
     height: 976
   m_ShowMode: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: "\u9879\u76EE"
+=======
+  m_Title: Inspector
+>>>>>>> parent of 5fb83a7 (9.17)
 =======
   m_Title: Inspector
 >>>>>>> parent of 5fb83a7 (9.17)
@@ -358,7 +362,11 @@ MonoBehaviour:
       m_SelectedIDs: 0c710000
       m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ExpandedIDs: caf8ffff
+=======
+      m_ExpandedIDs: 1cfbffff1c6f0000
+>>>>>>> parent of 5fb83a7 (9.17)
 =======
       m_ExpandedIDs: 1cfbffff1c6f0000
 >>>>>>> parent of 5fb83a7 (9.17)
@@ -523,11 +531,19 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: ffffffff00000000f470000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: Ink
       m_OriginalName: Ink
+=======
+    m_ExpandedIDs: ffffffff000000005e6f0000606f0000626f0000646f0000666f0000686f00006a6f00006c6f0000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+>>>>>>> parent of 5fb83a7 (9.17)
 =======
     m_ExpandedIDs: ffffffff000000005e6f0000606f0000626f0000646f0000666f0000686f00006a6f00006c6f0000
     m_RenameOverlay:
@@ -542,7 +558,11 @@ MonoBehaviour:
         width: 0
         height: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_UserData: 28922
+=======
+      m_UserData: 0
+>>>>>>> parent of 5fb83a7 (9.17)
 =======
       m_UserData: 0
 >>>>>>> parent of 5fb83a7 (9.17)

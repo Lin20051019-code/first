@@ -2,6 +2,9 @@ Base path: 'C:/Program Files/Unity/Hub/Editor/2022.3.61f1c1/Editor/Data', plugin
 Cmd: initializeCompiler
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Cmd: shutdown
+=======
+>>>>>>> parent of 5fb83a7 (9.17)
 =======
 >>>>>>> parent of 5fb83a7 (9.17)
