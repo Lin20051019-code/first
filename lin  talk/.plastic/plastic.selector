@@ -1,0 +1,4 @@
+repository "lin  talk@tj_lyx4319@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,4 +1,0 @@
-repository "练习@tj_lyx4319@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
