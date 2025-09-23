@@ -1,5 +1,16 @@
-﻿title: NewYarnScript
-position: -110,27
+﻿title: Node
+position: 26,146
+---
+
+===
+title: Node
+style: note
+position: 16,136
+---
+
+===
+title: NewYarnScript
+position: -170,62
 ---
 Player: Hello there!
 NPC: Oh, hello! How can I help you today?
@@ -13,8 +24,9 @@ NPC: Oh, hello! How can I help you today?
 ===
 
 title: End
-position: 173,-61
+position: 154,-93
 ---
 Player: Thanks for your help!
 NPC: You're welcome! Have a nice day!
 ===
+tltle:r ruxue
