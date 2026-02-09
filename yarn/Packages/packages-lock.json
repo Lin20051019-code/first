@@ -260,11 +260,10 @@
       "url": "https://packages.unity.cn"
     },
     "dev.yarnspinner.unity": {
-      "version": "3.0.3",
+      "version": "file:../Assets/dev.yarnspinner.unity@3.0.3",
       "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://package.openupm.com"
+      "source": "local",
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

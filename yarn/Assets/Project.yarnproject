@@ -8,7 +8,7 @@
     "./Samples/Yarn Spinner*/*"
   ],
   "localisation": {},
-  "baseLanguage": "zh-CHS",
+  "baseLanguage": "zh-Hans",
   "compilerOptions": {},
   "definitionsFiles": []
 }
